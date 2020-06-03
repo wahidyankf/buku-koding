@@ -1,4 +1,6 @@
-#+TITLE: Ceritanya Programmer
+* Cerita Programmer
+
+Sebuah screencast tentang kehidupan sehari-hari programmer dan dunia di sekitarnya. Ikutin playlistnya di: [[https://www.youtube.com/watch?v=9h4FwIq4DNE&list=PLqWVfQGCmUMA4zExF3PqzGurfa68kFjcZ][YouTube Playlist - Cerita Programmer]]
 
 [[./000001-umum-initial_commit.org][000.001 - Umum - Initial Commit]]
 

@@ -1,20 +1,19 @@
-#+Title: Buku Programming
+* Buku Programming
 
-* Daftar Isi
+** Daftar Isi
 :PROPERTIES:
 :TOC:      :include all siblings :depth 2
 :END:
 
 :CONTENTS:
-- [[#daftar-isi][Daftar Isi]]
-- [[#intro][Intro]]
-- [[#topik-umum][Topik Umum]]
+- [[#buku-programming][Buku Programming]]
+  - [[#daftar-isi][Daftar Isi]]
+  - [[#intro][Intro]]
   - [[#cerita-programmer][Cerita Programmer]]
 :END:
 
-* Intro
+** Intro
 
 
-* Topik Umum
 
 ** [[./cerita-programmer/README.org][Cerita Programmer]]
