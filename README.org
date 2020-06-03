@@ -36,7 +36,7 @@ Sebagai penutup, ada satu kata-kata yang gw baca di buku [[https://www.manning.c
 #+BEGIN_QUOTE
 Ask yourself, as a reader, what piece of writing in all the world ... would [you] most want to read if [you] had [your] heart's choice. The next step is terrible, but so simple I can hardly believe it as I write it. You just sit down shamelessly and write the thing yourself
 
-- J.D. Salinger -
+J.D. Salinger
 #+END_QUOTE
 
 Mungkin sudah saatnya saya mulai berbagi secara lebih terstruktur tentang dunia programming ini. Semoga bisa pelan-pelan membantu banyak orang yang membutuhkan.
