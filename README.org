@@ -1,31 +1,20 @@
 #+Title: Buku Programming
 
-* Table of Contents
+* Daftar Isi
 :PROPERTIES:
-:TOC:      :include all :depth 2
+:TOC:      :include all siblings :depth 2
 :END:
 
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
-- [[#first-heading][First Heading]]
-  - [[#first-heading-sub---1][First Heading sub - 1]]
-  - [[#first-heading-sub---2][First Heading sub - 2]]
-- [[#second-heading][Second Heading]]
-- [[#second-heading-sub---1][Second Heading sub - 1]]
+- [[#daftar-isi][Daftar Isi]]
+- [[#intro][Intro]]
+- [[#topik-umum][Topik Umum]]
+  - [[#cerita-programmer][Cerita Programmer]]
 :END:
 
-
-* First Heading
-
-Welcome
-
-** First Heading sub - 1
-
-** First Heading sub - 2
+* Intro
 
 
-* Second Heading
+* Topik Umum
 
-Test 123
-
-* Second Heading sub - 1
+** [[./cerita-programmer/README.org][Cerita Programmer]]

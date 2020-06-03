@@ -1,0 +1,107 @@
+#+title: Transisi Jadi Programmer - Target
+
+[[https://www.youtube.com/watch?v=B9JR034VZjM][YouTube Link]]
+
+* Description
+
+Misalkan kita udah yakin kalo mau jadi programmer, dan kita juga udah nyari-nyari tentang apa aja yang harus dilakuin buat jadi programmer. Terus gimana dengan target yang lebih kongkrit? Kapan idealnya proses transisi kita berakhir? Perusahaan apa yang baiknya kita lamar? Yuk kita ngomongin lebih jauh tentang ini! Karena
+
+"transisi jadi programmer tanpa target yang jelas sama kaya ambulan tanpa uwiw uwiw"
+
+- adaptasi dari quote di sosmed path -
+
+* 1/13 Apa
+
+Tentang target transisi jadi programmer
+
+Batasan: Web/App programmer
+
+* 2/13 Kenapa - 1
+
+1. Bakal kerasa makin berat kalo gak ada target yang jelas
+
+2. Bisa-bisa kita "keasikan" belajar tanpa arah
+
+3. Tempat kerja pertama kita akan sangat menentukan karir kita ke depannya
+
+* 3/13 Kenapa - 2
+
+4. Bakal jadi repot kalo kita salah nentuin target
+
+- Misal, targetnya ketinggian terus kita gak kelar-kelar transisinya
+
+- Atau malah keburu kecapean di tengah jalan
+
+* 4/13 Jadi apa targetnya?
+
+Jadi junior programmer di tempat yang (minimal salah satu masuk)
+
+1. Punya proses mentoring yang bagus
+
+2. Kita tau kalo bisnisnya solid, dan lagi mau lepas landas
+
+* 5/13 Kenapa junior developer?
+
+Akan sangat sulit untuk dapetin kemampuan di atas junior developer tanpa punya pengalaman kerja
+
+Butuh kolega buat bantu kita berkembang lebih cepat
+
+* 6/13 Opsi 1 - Punya proses mentoring yang bagus - Kenapa
+
+Sebagai "anak baru" di industri ini, kita gak tau apa yang kita gak tau
+
+Mentor kita akan bisa mengarahkan (bukan nyuapin) kita ke arah yang benar
+
+* 7/13 Opsi 1 - Punya proses mentoring yang bagus - Gimana
+
+Baca-baca di internet tentang kultur di perusahaan itu
+
+Tanya pas interview:
+
+Kalo kalian keterima, gimana 3 minggu pertama kalian di perusahaan itu
+
+* 8/13 Opsi 2 - Bisnisnya solid dan mau lepas landas - Kenapa
+
+Biasanya:
+
+Udah ada lumayan banyak orang, bisa dapet mentoring juga
+
+Dipaksa buat belajar lebih kenceng dan lebih banyak
+
+Dituntut untuk banyak eksplorasi, karena orangnya gak terlalu banyak
+
+* 9/13 Opsi 2 - Bisnisnya solid dan mau lepas landas - Kenapa
+
+Kita bakal bisa ngeliat perubahan code-base dari yang berantakan jadi rapih (ini mahal banget)
+
+Pernah denger ini di salah satu talk dari hack-reactor
+
+* 10/13 Opsi 2 - Bisnisnya solid dan mau lepas landas - Gimana
+
+Banyak cari tahu dan analisis perusahaannya
+
+Contoh: Kenapa dulu gw milih Ruang Guru
+
+* 11/13 Gimana dengan gaji?
+
+Itu bukan prioritas saat ini
+
+Dapet salah satu dari 2 di atas? Atau malah dapet 2-2nya?
+
+Sikat! Selama gajinya gak di bawah UMR
+
+Gaji programmer biasanya gak akan sedeket itu juga sama UMR
+
+* 12/13 Info
+
+Gw dulu ikut yang kedua
+
+Capek pake banget!
+
+Tapi gak nyesel!
+
+* 13/13 Pilih tempat yang pas!
+
+Tempat pertama kita akan menentukan karir kita ke depannya
+
+Beneran!

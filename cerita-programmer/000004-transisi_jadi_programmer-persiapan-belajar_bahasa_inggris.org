@@ -1,0 +1,79 @@
+#+Title: Transisi Jadi Programmer - Persiapan - Belajar Bahasa Inggris
+
+[[https://www.youtube.com/watch?v=O7VzHlRM6XQ][YouTube Link]]
+
+* Description
+
+Hi guys, kali ini gw mau ngomongin tentang salah satu skill terpenting buat transisi kita jadi programmer: bahasa inggris! Emang kedengerennya ribet, tapi kemampuan berbahasa inggris kita ini akan menentukan banget perkembangan karir kita sebagai programmer. Oia, di bawah ini gw lampirin juga tautan-tautan yang bisa ngebantu kita buat belajar bahasa inggris (gratis pulak!):
+
+1. https://www.duolingo.com/
+
+2. https://www.freecodecamp.org/news/
+
+3. https://dev.to/
+
+4. https://www.grammarly.com/
+
+* 1/10 Apa?
+
+Belajar bahasa inggris
+
+* 2/10 Kenapa - 1
+
+Buanyak banget sumber belajar super bagus di luar sana yang pake bahasa inggris
+
+freecodecamp, udemy, kindle, google books
+
+* 3/10 Kenapa - 2
+
+Kita bakal banyak banget baca dokumentasi
+
+99 persen lebih bahasa inggris
+
+* 4/10 Kenapa - 3
+
+Butuh buat komunikasi di forum atau github
+
+* 5/10 Gimana - 1
+
+Aplikasi duolingo
+
+https://www.duolingo.com/
+
+* 6/10 Gimana - 2
+
+Banyak baca artikel bahasa inggris.
+
+Dulu gw juga gak bisa, tapi sotoy aja
+
+1. https://www.freecodecamp.org/news/
+
+2. https://dev.to/
+
+* 7/10 Gimana - 3
+
+Nonton film berbahasa inggris:
+
+1. pake subtitle bahasa inggris
+
+2. gak pake subtitle
+
+* 8/10 Gimana - 4
+
+Ngomong ke diri sendiri pake bahasa inggris
+
+Ngobrol sama orang pake bahasa inggris
+
+Gak musti dengan suara, ketikan/via forum juga boleh
+
+* 9/10 Gimana - 5
+
+Bikin tulisan pake bahasa inggris
+
+Install grammarly di web browser/komputer
+
+https://www.grammarly.com/
+
+* 10/10 Sampe
+
+Mimpi pake bahasa inggris

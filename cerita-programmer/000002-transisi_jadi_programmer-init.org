@@ -1,0 +1,71 @@
+#+Title: Transisi Jadi Programmer - Init
+
+[[https://www.youtube.com/watch?v=TX-Lhdl-mXk][YouTube Link]]
+
+* Description
+
+Hola, kali ini gw mau ngomongin tentang transisi jadi programmer. Buat yang penasaran buat jadi programmer dan udah nyari tau mungkin enggak kita jadi programmer tapi gak punya dasar programming/IT kemungkinan besar kalian udah nemuin banyak artikel di luar sana tentang macem-macem orang-orang yang berhasil transisi jadi programmer. Nah! Video kali ini akan membahas tentang hal itu dari pengalaman pribadi gw sejauh ini (Yup! Gw juga tadinya bukan orang yang kuliah IT!). Semoga bisa menjadi bahan penambah semangat buat orang-orang yang lagi masa transisi jadi programmer atau lagi galau pengen ngelompat ke bidang ini atau enggak.
+
+* 1/11 Hello
+
+Transisi menjadi programmer
+
+* 2/11 Kenapa?
+
+Banyak yang bilang kalo:
+
+1. jadi programmer enak dan bayarannya gede
+
+2. banyak kisah di internet tentang orang yang transisi
+
+   jadi programmer
+
+* 3/11 Perjalanan Gw - 1
+
+1. S1 - umur 18-24 -> iya, lo gak salah baca.
+
+2. Persiapan S2 - 24-25
+
+3. S2 - umur 25-29 -> iya, lo beneran gak salah baca kok.
+
+* 4/11 Perjalanan Gw - 2
+
+4. Drop Out S2 - 29 -> baru nikah pulak saat itu
+
+5. Transisi jadi programmer + ngelamar-ngelamar - 6 bulan
+
+6. Junior Frontend Engineer
+
+* 5/11 Fakta - 1
+
+Artikel-artikel itu bener, dan transisi jadi programmer itu mungkin banget
+
+Dan bukan cuman gw doang, banyak temen gw yang berhasil transisi
+
+* 6/11 Fakta - 2
+
+Gajinya beneran lumayan
+
+* 7/11 Fakta - 3
+
+Transisinya gak segampang itu
+
+* 8/11 Fakta - 4
+
+Jadi programmer itu beda sama koding buat hobi
+
+Sama kayak atlet lari vs lari pagi/sore
+
+* 9/11 Fakta - 5
+
+Gak selalu tentang kualitas
+
+* 10/11 Tapi
+
+Jadi programmer itu worth it banget kalo emang kita emang seneng ngulik
+
+Dan gw yakin banget kalo semua orang pasti bisa jadi programmer
+
+* 11/11 Fin. Komen dan Cerita
+
+Gimana menurut kalian?

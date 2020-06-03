@@ -1,0 +1,8 @@
+#+TITLE: Ceritanya Programmer
+
+[[./000001-umum-initial_commit.org][000.001 - Umum - Initial Commit]]
+[[./000002-transisi_jadi_programmer-init.org][000.002 - Transisi Jadi Programmer - Init]]
+[[./000003-transisi_jadi_programmer-persiapan-belajar_buat_belajar.org][000.003 - Transisi Jadi Programmer - Persiapan - Belajar Buat Belajar]]
+[[./000004-transisi_jadi_programmer-persiapan-belajar_bahasa_inggris.org][000.004 - Transisi Jadi Programmer - Persiapan - Belajar Bahasa Inggris]]
+[[./000005-umum-stop_pake_bajakan.org][000.005 - Umum - Stop Pake Bajakan]]
+[[./000006-transisi_jadi_programmer-target.org][000.006 - Transisi Jadi Programmer - Target]]

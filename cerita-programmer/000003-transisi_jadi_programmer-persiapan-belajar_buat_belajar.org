@@ -1,0 +1,90 @@
+#+Title: Transisi Jadi Programmer - Persiapan - Belajar Buat Belajar
+
+[[https://www.youtube.com/watch?v=oHMnmWWDyiY][YouTube Link]]
+
+* Description
+
+Yo! Buat kamu yang pengen jadi programmer, gw pengen berbagi tentang kemampuan vital yang bakal dibutuhin selama masa transisi/belajar kita sebagai programmer: belajar! Kenapa gw angkat ini? Karena dari pengalaman gw pribadi, masa-masa transisi ini termasuk masa-masa yang bisa dibilang berat dalam hidup gw (banyak belajar hal baru, ketidakpastian, dan lain sebagainya). Dan di video kali ini, gw bakal berbagi tips yang bisa membantu kita untuk meringankan beban selama masa transisi ini: belajar buat belajar. Semoga berguna!
+
+Tautan:
+
+1. Minum air putih dan performa kognitif: https://www.bbc.com/news/education-17741653
+
+2. Scott H Young - MIT Challenge: https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
+
+3. A mind for numbers
+
+   - Amazon: https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU
+
+   - Google Books: https://books.google.com/books/about/A_Mind_For_Numbers.html?id=Sb1iAgAAQBAJ
+
+* 1/10 Apaan deh
+
+Otak lo bakal dipelintir-pelintir selama transisi
+
+Karena masukin hal baru itu beda sama melakukan hal yang udah kita bisa
+
+Harus tau gimana caranya biar gak stress
+
+* 2/10 Tips 1 - Hitung waktu belajar
+
+"Deep work" - 4-5 jam per hari
+
+Pake timer dapur/kue/apa pun yang simpel
+
+* 3/10 Tips 2 - Jangan takut buat istirahat
+
+Manusia gak bisa dihajar mikir langsung berjam2
+
+Yang kita incer itu kualitas ("deep work"), bukan kuantitas
+
+Otak kita tetep kerja di belakang layar
+
+* 4/10 Tips 3 - Gak semua istirahat itu sama
+
+Pilih istirahat yang bermutu
+
+Jalan/jogging gak sama dengan main game/browsing sosmed
+
+* 5/10 Tips 4 - Banyak minum air putih
+
+Beda 10 persen!
+
+Mayan..
+
+    https://www.bbc.com/news/education-
+
+* 6/10 Tips 5 - Video?
+
+Playback speed 1.25++
+
+
+* 7/10 Tips 6 - Repetisi dan bikin catatan
+
+Bikin catetan dari tiap pelajaran
+
+
+Kurangin jadi makin kecil dan kecil via pertanyaan
+
+
+* 8/10 Tips 7 - Bikin ujian/project mandiri
+
+Belajar ini dari:
+
+
+https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
+
+
+* 9/10 Tips 8 - Bikin Target yang Realistis dan Disiplin
+
+Disiplin! Disiplin! Disiplin!
+
+
+Jembatan gak dibikin dalam waktu sehari
+
+
+* 10/10 Rekomendasi Buku
+
+Learning how to learn
+
+https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU
