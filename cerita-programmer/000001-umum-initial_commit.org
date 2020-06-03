@@ -1,38 +1,36 @@
-#+Title: Umum - Initial Commit
+* Umum - Initial Commit
 
 [[https://www.youtube.com/watch?v=9h4FwIq4DNE][YouTube Link]]
 
-* Description
-
 Halo yutup.. Setelah sekian lama pengen berkontribusi balik buat komunitas, gw akhirnya memutuskan buat berbagi pengalaman dan pengetahuan yang udah gw dapetin sebagai programmer/tukang koding. Dan di video gw yang pertama ini, gw mau ngomongin tentang latar belakang gw bikin channel ini. Salam kenal dan selamat menikmati!
 
-* 1/11 Hello
+** 1/11 Hello
 
 World..
 
-* 2/11 Siapa Gw
+** 2/11 Siapa Gw
 
 Y O K A
 
-* 3/11 Apa Kerjaan Gw
+** 3/11 Apa Kerjaan Gw
 
 Senior Software Engineer di Ruang Guru
 
-* 4/11 Apa Itu Artinya?
+** 4/11 Apa Itu Artinya?
 
 1. Gw salah satu orang yang tugasnya ngebantu manager buat jinakin "bom" yang datang dari kawan-kawan tim bisnis
 
 2. Dan.. Jadi salah satu orang yang bakal kena marah duluan kalo ada apa-apa
 
-* 5/11 Tapi...
+** 5/11 Tapi...
 
 Boong.. Tempat gw bekerja sampe sejauh ini gak menganut budaya blaming.. Beneran..
 
-* 6/11 Mau Apa
+** 6/11 Mau Apa
 
 Gw pengen berbagi pengalaman..
 
-* 7/11 Buat Programmer Wanna Be
+** 7/11 Buat Programmer Wanna Be
 
 1. Bisa ngeliat utuh kerjaan programmer itu kayak gimana
 
@@ -40,7 +38,7 @@ Gw pengen berbagi pengalaman..
 
 3. Biar pede kalo selama kalian bisa baca dan berhitung dasar, kalian bisa jadi programmer
 
-* 8/11 Buat Sesama Programmer
+** 8/11 Buat Sesama Programmer
 
 1. Biar bisa ada bahan perbandingan gimana kerjaan di tempat lain
 
@@ -48,18 +46,18 @@ Gw pengen berbagi pengalaman..
 
 3. Biar bisa ngambil pelajaran dari apa yang pernah gw alamin
 
-* 9/11 Buat Tim Product, Tim Desain, dan Tim Bisnis
+** 9/11 Buat Tim Product, Tim Desain, dan Tim Bisnis
 
 1. Biar bisa ngeliat programmer sebagai manusia utuh
 
 2. Biar makin kebayang apa yang ada di otak programmer, jadi kita bisa kolaborasi lebih maksimal
 
-* 10/11 Yang paling penting buat gw pribadi
+** 10/11 Yang paling penting buat gw pribadi
 
 Biar bisa ngewujudin mimpi gw:
 
 - bantu banyak orang yang mau berusaha biar bisa jadi programmer dan ningkatin taraf hidup mereka
 
-* 11/11 Jadi..
+** 11/11 Jadi..
 
 Selamat datang.. Dan selamat menikmati..
