@@ -13,6 +13,7 @@
     - [[#screen-cast---cerita-programmer][Screen Cast - Cerita Programmer]]
   - [[#coming-soon][Coming soon]]
     - [[#tutorial-bahasa-pemrograman][Tutorial Bahasa Pemrograman]]
+  - [[#license][License]]
 :END:
 
 ** Intro
@@ -48,3 +49,7 @@ Mungkin sudah saatnya saya mulai berbagi secara lebih terstruktur tentang dunia 
 ** Coming soon
 
 *** Tutorial Bahasa Pemrograman
+
+** License
+
+[[https://creativecommons.org/licenses/by-nc/3.0/][Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)]]
