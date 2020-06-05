@@ -17,3 +17,5 @@ Sebuah screencast tentang kehidupan sehari-hari programmer dan dunia di sekitarn
 [[./000005-umum-stop_pake_bajakan.org][000.005 - Umum - Stop Pake Bajakan]]
 
 [[./000006-transisi_jadi_programmer-target.org][000.006 - Transisi Jadi Programmer - Target]]
+
+[[./000007-transisi_jadi_programmer-persiapan-belajar_mengetik_10_jari.org][000.007 - Transisi Jadi Programmer - Belajar Mengetik 10 Jari]]
