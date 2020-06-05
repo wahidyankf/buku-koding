@@ -1,0 +1,97 @@
+* Transisi Jadi Programmer - Persiapan - Belajar Mengetik dengan Seluruh (10) Jari Tangan
+
+Yo! Kali ini gw mau ngebahas tentang salah satu hal yang wajib dipersiapan untuk menjadi programmer yang efesien: belajar mengetik dengan seluruh (10) jari! Kenapa gw bilang ini penting? Karena sebagai programmer, salah satu pekerjaan utama kita adalah mengetik kode di komputer, dan di sini kecepatan menulis kita akan sangat berpengaruh terhadap banyaknya hal yang akan kita selesaikan dalam satu hari.
+
+Tautan:
+
+1. Belajar teori ngetik (gratis): https://www.typingclub.com/
+
+2. Belajar ngetik sambil main: https://play.typeracer.com/
+
+** 1/11 - Apa
+
+Belajar mengetik semua jari tangan kita (10) jari!
+
+** 2/11 - Kenapa - 1
+
+Pengalaman pribadi:
+
+1. Rata-rata ngoding 4.5-6 jam/hari (bersih, jam kerja)
+
+2. Komunikasi banyak yang gak lewat bicara
+
+** 3/11 - Kenapa - 2
+
+Asumsi 4.5 jam/hari 5% lebih cepat -> minimal hemat 12 menit perhari
+
+>> 1 jam/minggu (5 hari kerja)
+
+>> 4 jam/bulan
+
+>> 48 jam/tahun
+
+>> 6 hari cuti!
+
+Bakal lebih gede lagi kalo kita ngoprek juga di luar jam kerja
+
+** 4/11 - Gimana - 1
+
+- tangan kiri >> asdf  ||  tangan kanan >> jkl;
+ 
+- jari telunjuk di f dan j (biasanya ada tonjolannya di keyboard)
+
+[[file:./assets/000007-touch_typing.png]]
+[1] Wikimedia
+** 5/11 - Gimana - 2
+
+- ngetiknya bagi-bagi tempat [ << 5tgb  ||  6yhn >> ]
+
+- huruf kapital pake shift kanan & kiri (jangan pake CAPSLOCK!)
+
+[[file:./assets/000007-touch_typing.png]]
+[1] Wikimedia
+
+** 6/11 - Catatan
+
+- jangan ngeliat keyboard
+
+- gak usah pikirin seberapa cepet kita bisa ngetik
+
+- yang paling penting kita bisa nyaman ngetik
+
+  >> tanpa harus ngeliat keyboard
+
+** 7/11 - Tips - 1
+
+Belajar teori ngetik (gratis)
+
+- https://www.typingclub.com/
+
+Belajar sambil main
+
+- https://play.typeracer.com/
+ 
+** 8/11 - Tips - 2
+
+- map CAPSLOCK -> CONTROL >> tangan bakal tetep ada di homerow
+
+[[file:./assets/000007-touch_typing.png]]
+[1] wikimedia
+
+** 9/11 - Tips - 3
+
+Banyak-banyak ngetik!
+
+Gak ada cara lain kalo udah menyangkut kebiasaan fisik
+
+** 10/11 - Penutup
+
+Idenya belajar ngetik ini sebenernya simpel
+
+>> tapi bakal jadi salah satu investasi kita di dunia programming yang timbal baliknya paling besar
+
++terus yang berikutnya gede itu belajar vim -> emacs+
+
+** 11/11 - Daftar Pustaka
+
+[1] Gambar keyboard: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/QWERTY-home-keys-position.svg/800px-QWERTY-home-keys-position.svg.png/
