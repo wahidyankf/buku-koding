@@ -6,16 +6,16 @@ Sebuah screencast tentang kehidupan sehari-hari programmer dan dunia di sekitarn
 
 ** Daftar Episode
 
-[[./0001-umum-initial_commit.org][0.001 - Umum - Initial Commit]]
+[[./0001-umum-initial_commit.org][0001 - Umum - Initial Commit]]
 
-[[./0002-transisi_jadi_programmer-init.org][0.002 - Transisi Jadi Programmer - Init]]
+[[./0002-transisi_jadi_programmer-init.org][0002 - Transisi Jadi Programmer - Init]]
 
-[[./0003-transisi_jadi_programmer-persiapan-belajar_buat_belajar.org][0.003 - Transisi Jadi Programmer - Persiapan - Belajar Buat Belajar]]
+[[./0003-transisi_jadi_programmer-persiapan-belajar_buat_belajar.org][0003 - Transisi Jadi Programmer - Persiapan - Belajar Buat Belajar]]
 
-[[./0004-transisi_jadi_programmer-persiapan-belajar_bahasa_inggris.org][0.004 - Transisi Jadi Programmer - Persiapan - Belajar Bahasa Inggris]]
+[[./0004-transisi_jadi_programmer-persiapan-belajar_bahasa_inggris.org][0004 - Transisi Jadi Programmer - Persiapan - Belajar Bahasa Inggris]]
 
-[[./0005-umum-stop_pake_bajakan.org][0.005 - Umum - Stop Pake Bajakan]]
+[[./0005-umum-stop_pake_bajakan.org][0005 - Umum - Stop Pake Bajakan]]
 
-[[./0006-transisi_jadi_programmer-target.org][0.006 - Transisi Jadi Programmer - Target]]
+[[./0006-transisi_jadi_programmer-target.org][0006 - Transisi Jadi Programmer - Target]]
 
-[[./0007-transisi_jadi_programmer-persiapan-belajar_mengetik_10_jari.org][0.007 - Transisi Jadi Programmer - Belajar Mengetik 10 Jari]]
+[[./0007-transisi_jadi_programmer-persiapan-belajar_mengetik_10_jari.org][0007 - Transisi Jadi Programmer - Belajar Mengetik 10 Jari]]
