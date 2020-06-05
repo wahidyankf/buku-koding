@@ -53,3 +53,9 @@ Mungkin sudah saatnya saya mulai berbagi secara lebih terstruktur tentang dunia 
 ** License
 
 [[https://creativecommons.org/licenses/by-nc/3.0/][Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)]]
+
+Bahasa gampangnya:
+
+1. Boleh dipake dengan atau tanpa dimodif buat tujuan non komersial (bukan buat ambil untung secara finansial), asalkan ngasih tau diambil dari sini.
+  
+2. Gak boleh dipake tanpa modif ataupun dimodif buat tujuan komersial (bermaksud mengambil untung secara finansial), kecuali gw izinin.
