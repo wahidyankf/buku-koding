@@ -1,4 +1,6 @@
-* Transisi Jadi Programmer - Persiapan - Belajar Mengetik dengan Seluruh (10) Jari Tangan
+* Episode 0007 - Transisi Jadi Programmer - Persiapan - Belajar Mengetik dengan Seluruh (10) Jari Tangan
+
+[[https://youtu.be/tfnUP9K82ik][YouTube Link]]
 
 Yo! Kali ini gw mau ngebahas tentang salah satu hal yang wajib dipersiapan untuk menjadi programmer yang efesien: belajar mengetik dengan seluruh (10) jari! Kenapa gw bilang ini penting? Karena sebagai programmer, salah satu pekerjaan utama kita adalah mengetik kode di komputer, dan di sini kecepatan menulis kita akan sangat berpengaruh terhadap banyaknya hal yang akan kita selesaikan dalam satu hari.
 
