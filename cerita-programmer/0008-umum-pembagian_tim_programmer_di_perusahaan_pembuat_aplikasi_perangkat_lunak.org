@@ -1,0 +1,172 @@
+* Umum - Pembagian Tim Programmer di Perusahaan Pembuat Aplikasi Perangkat Lunak
+
+Hei ho youtube.. Kali ini gw mau ngomongin tentang pembagian role di tim engineering yang biasanya ada di startup-startup (terutama yang ada di indo). Mungkin topiknya kayak kurang oke buat temen-temen yang udah kerja di startup (karena banyak yang udah tau), tapi gw rasa ini salah satu topik yang bagus buat diketahuin orang-orang yang pengen jadi programmer atau yang penasaran sama tim programmer. Jadi ada pembagian kerja apa aja di tim engineering yang ada di startup? Yuk kita bahas.
+
+** 1/14 - Apa
+
+Ngomongin pembagian tugas utama yang biasanya ada di tim engineering
+
+** 2/14 - Definisi Tim Engineering
+
+Software engineering/rekayasa perangkat lunak
+
+Gampangnya: perusahaan yang bikin aplikasi kayak gojek/tokopedia/ruang guru
+
+** 3/14 - Pembagian Besar
+
+1. Tim depan
+
+2. Tim belakang
+
+3. Tim ngetes-ngetes
+
+4. Tim ngolah data
+
+5. Tim pendukung
+
+** 4/14 - Tim Depan - Android
+
+Pertanyaan Utama:
+
+>> Gimana caranya orang bisa make aplikasi kita di perangkat android dengan enak
+
+<?>
+
+- Bikin aplikasi di Android
+
+- Biasanya identik pake bahasa pemrograman Java/Kotlin
+
+  >> Bisa juga pake JavaScript/Dart atau yang lainnya
+
+** 5/14 - Tim Depan - iOS
+
+Pertanyaan Utama:
+
+>> Gimana caranya orang bisa make aplikasi kita di perangkat iOS dengan enak
+
+<?>
+
+- Bikin aplikasi di iOS
+
+- Biasanya identik pake bahasa pemrograman Objective C/Swift
+
+  >> Bisa juga pake JavaScript/Dart atau yang lainnya
+ 
+** 6/14 - Tim Depan - Web
+
+Pertanyaan Utama:
+
+>> Gimana caranya orang bisa make aplikasi kita di web dengan enak
+
+<?>
+
+- Bagian aplikasi pake teknologi web
+
+- Biasanya identik pake bahasa pemrograman JavaScript
+
+  >> Bisa juga pake Dart/ClojureScript/ReasonML atau yang lainnya
+
+- Biasanya dapet tugas juga buat bikin dashboard/CMS aplikasi
+
+- Biasanya "Jack of All Trade"
+
+** 7/14 - Tim Belakang - Backend
+
+Pertanyaan Utama:
+
+>> Gimana caranya bagian depan (Android/iOS/web) kita bisa dapetin data yang diperluin (biar orang-orang bisa make)?
+
+<?>
+
+- Bikin program yang dijalanin di server buat nyimpen, ngolah, dan ngasih data dari dan ke bagian depan
+
+- Banyak bahasa yang bisa dipake: PHP/Python/Go/Rust/dll
+
+** 8/14 - Tim Belakang - Infrastruktur
+
+Pertanyaan Utama:
+
+>> Gimana caranya server kita gak rontok waktu banyak yang make dan tim yang lainnya gampang buat ngeluncurin aplikasi?
+
+<?>
+
+- Tugasnya jagain server, mastiin servernya gak rontok, biar bagian depan sama belakang aman
+
+- bahasanya bisa pake macem-macem tapi yang paling penting tau bash/sh (buat linux)
+
+  >> kalo buat windows kurang tau, tapi harusnya ada yang sejenisnya
+
+** 9/14 - Tim Ngetes-ngetes
+
+Pertanyaan Utama:
+
+>> Gimana caranya aplikasi yang kita gak ngelakuin sesuatu yang di luar spesifikasi yang udah ditetapin (gak ngebug)?
+
+<?>
+
+- Mastiin aplikasi kita lancar
+
+- Bisa pake otomasi (bikin program) atau ngetes manual
+
+- Biasanya disebut Quality Assurance atau Software Engineer in Test
+
+** 10/14 - Tim Data - Analyst
+
+Pertanyaan Utama:
+
+>> Gimana caranya bisa nyediain informasi yang berguna dari data yang ada di masa sekarang dan masa lalu
+
+<?>
+
+- Analisa data yang bisa diliat dari masa sekarang dan masa lalu
+
+- Terjemahin data apa yang _dibutuhin_ oleh tim yang lainnya dan nyediain itu untuk ngebantu ngebuat keputusan
+ 
+- Pengetahuan tentang statistik gak bisa ditawar-tawar di sini
+
+** 11/14 - Tim Data - Scientist
+
+Pertanyaan Utama:
+
+>> Gimana caranya memprediksi masa depan dari data yang ada didapetin di masa lalu dan masa sekarang
+
+<?>
+
+- Bisa pake machine learning atau sejenisnya buat nyelesaiin masalah di atas
+ 
+- Harus nguatin matematika, probabilitas dan statistik kalo mau jadi jago di sini
+
+  >> jangan masuk sini kalo gak suka matematika sama probabilitas dan statistik
+
+- Biasanya bahasa pemrogramannya pake Python/R
+** 12/14 - Tim Data - Engineer
+
+Pertanyaan Utama:
+
+>> Gimana caranya bisa ngebuat aliran data yang dibutuhin sama orang-orang lancar (gampang diolah, bisa nerima banyak trafic dan sejenisnya)
+
+<?>
+
+- Bikin infrastruktur buat aliran data yang dibutuhin oleh tim lain
+
+- Tim data analis dan data scientist bakal banyak dapet bantuan dari sini
+
+** 13/14 - Tim Pendukung/Support Engineer (The Unsung Hero)
+
+Pertanyaan Utama:
+
+>> Gimana caranya komplen dari pengguna aplikasi gak berefek terlalu buruk, dan bisa nyampe ke developer dengan bentuk yang mudah dicerna
+
+<?>
+
+- Mastiin pengguna aplikasi merasa diperhatiin dan dibantu kalo ada masalah sama aplikasi kita
+
+- Ngolah data kotor dari pengguna aplikasi ke bentuk yang bisa diolah sama tim engineering lainnya
+
+** 14/14 Yang mana yang lebih penting?
+
+Gak ada yang lebih penting, beneran!
+
+Programmer itu kerja tim
+
+>> Beban kerja bakal naek kalo ada bagian yang hilang
