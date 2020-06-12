@@ -1,0 +1,123 @@
+* Transisi Jadi Programmer - Pilih Jadi Programmer Bagian Mana
+
+Setelah sebelumnya kita ngomongin tentang pembagian peran di tim software engineering di perusahaan pembuat aplikasi, kali ini gua mau ngomongin tentang pemilihan role programmer. Kenapa hal ini penting? Karena setelah kita tahu kalau kita mau jadi programmer, tahap selanjutnya adalah nentuin programmer jenis apa yang akan jadi kita jadiin target. Nah, buat hal ini ada beberapa hal yang bisa jadi pertimbangan. Apa aja itu? Nyok kita liat videonya!
+
+** 1/10 - Bingung mau milih bagian mana?
+
+Kita udah yakin mau jadi programmer, tapi yang mana?
+
+** 2/10 Pertimbangan
+
+1. Waktu
+
+2. Paradoks ayam-telor-ayam
+
+3. Dasar keilmuan kita
+
+4. Perlengkapan kita
+
+5. Batasan fisik
+
+6. Prospek karir
+  
+** 3/10 Pertimbangan - 1 - Waktu
+
+Yang mana yang paling gampang dimasukin?
+
+- sisi klien >>> sisi server
+
+  - Kemungkinan buat "meledak"nya lebih gede -> Lebih butuh banyak pengalaman
+
+Penting:
+
+- Lebih gampang masuk != lebih gampang dikuasain
+
+** 4/10 Pertimbangan - 2 - Paradoks Ayam-Telor-Ayam
+
+Sisi server | Data -> kayak ayam sama telor
+
+- Butuh pengelaman kerja di bidang yang sama buat masuk
+
+** 5/10 Pertimbangan - 3 - Dasar keilmuan kita
+
+Lulusan non matematika/statistik/teknik
+
+- Data analyst -> Butuh statistik
+
+- Data scientist -> Butuh matematika, probabilitas, statistik
+
+Yang sebaliknya juga berlaku
+
+- Kualitas kodingan rata-rata orang data beda dengan yang berat di programming
+** 6/10 Pertimbangan - 4 - Perlengkapan kita
+
+Perlengkapan apa yang kita punya?
+
+- iOS -> Butuh komputer/laptop Mac OS, hape iOS
+
+- Android -> Butuh hape android
+
+Tapi ini bisa diakalin
+
+- Misal: iOS x Apple Academy
+** 7/10 Pertimbangan - 5 - fisik
+
+Buta warna penuh
+
+- agak sulit untuk di klien (Android, iOS, Web, atau sejenisnya)
+
+  - banyak kerja sama warna
+
+    - minimal buat ngecek udah bener belum hasil kodingan kita
+
+** 8/10 Pertimbangan - 6 - Prospek Karir
+
+Kecenderungan:
+
+- sisi server lebih bisa sampe ke atas (lead engineer ++)
+
+  - Karena yang biasanya lebih mungkin meledak itu di server
+
+    - Makin banyak yang akses makin susah
+
+Tapi...
+
+- Yang lainnya juga mungkin banget sebenernya sampe ke atas
+
+Programming itu ya programming
+
+** 9/10 Gw dulu pilih mana? Nyesel gak?
+
+Frontend Web
+
+- milih karena syarat masuknya termasuk gampang
+
+- gak nyesel, malah seneng
+
+  - dulu cuman tau imperatif sama OOP (pemrograman berbasis objek)
+
+    - sekarang make FP (pemrograman berbasis fungsi) di kerjaan
+
+  - bisa eksplor ReasonML/OCaml
+
+  - bisa bikin aplikasi di web/Android/iOS/desktop/server
+
+Programming itu ya programming
+
+** 10/10 Tapi yang paling penting
+
+Ikutin kata hati!
+
+Kita jadi programmer karena kita suka sama pekerjaan ini!
+
+- Gak ada alasan untuk pilih bagian yang gak kita suka
+
+Yang paling berpengaruh
+
+- Seberapa banyak kita mau belajar dan menjelajah dunia programming
+
+Programming itu ya programming
+
+** Fin
+
+Fin
