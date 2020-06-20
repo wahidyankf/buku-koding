@@ -1,5 +1,9 @@
 * Transisi Jadi Programmer - Pilih Jadi Programmer Bagian Mana
 
+[[https://www.youtube.com/watch?v=2Ju1RPuyOYg][YouTube Link]]
+
+** Deskripsi
+
 Setelah sebelumnya kita ngomongin tentang pembagian peran di tim software engineering di perusahaan pembuat aplikasi, kali ini gua mau ngomongin tentang pemilihan role programmer. Kenapa hal ini penting? Karena setelah kita tahu kalau kita mau jadi programmer, tahap selanjutnya adalah nentuin programmer jenis apa yang akan jadi kita jadiin target. Nah, buat hal ini ada beberapa hal yang bisa jadi pertimbangan. Apa aja itu? Nyok kita liat videonya!
 
 ** 1/10 - Bingung mau milih bagian mana?

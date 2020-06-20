@@ -2,6 +2,8 @@
 
 [[https://www.youtube.com/watch?v=B9JR034VZjM][YouTube Link]]
 
+** Deskripsi
+
 Misalkan kita udah yakin kalo mau jadi programmer, dan kita juga udah nyari-nyari tentang apa aja yang harus dilakuin buat jadi programmer. Terus gimana dengan target yang lebih kongkrit? Kapan idealnya proses transisi kita berakhir? Perusahaan apa yang baiknya kita lamar? Yuk kita ngomongin lebih jauh tentang ini! Karena
 
 "transisi jadi programmer tanpa target yang jelas sama kaya ambulan tanpa uwiw uwiw"

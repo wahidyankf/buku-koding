@@ -2,6 +2,8 @@
 
 [[https://www.youtube.com/watch?v=TX-Lhdl-mXk][YouTube Link]]
 
+** Deskripsi
+
 Hola, kali ini gw mau ngomongin tentang transisi jadi programmer. Buat yang penasaran buat jadi programmer dan udah nyari tau mungkin enggak kita jadi programmer tapi gak punya dasar programming/IT kemungkinan besar kalian udah nemuin banyak artikel di luar sana tentang macem-macem orang-orang yang berhasil transisi jadi programmer. Nah! Video kali ini akan membahas tentang hal itu dari pengalaman pribadi gw sejauh ini (Yup! Gw juga tadinya bukan orang yang kuliah IT!). Semoga bisa menjadi bahan penambah semangat buat orang-orang yang lagi masa transisi jadi programmer atau lagi galau pengen ngelompat ke bidang ini atau enggak.
 
 ** 1/11 Hello

@@ -2,6 +2,8 @@
 
 [[https://www.youtube.com/watch?v=9h4FwIq4DNE][YouTube Link]]
 
+** Deskripsi
+
 Halo yutup.. Setelah sekian lama pengen berkontribusi balik buat komunitas, gw akhirnya memutuskan buat berbagi pengalaman dan pengetahuan yang udah gw dapetin sebagai programmer/tukang koding. Dan di video gw yang pertama ini, gw mau ngomongin tentang latar belakang gw bikin channel ini. Salam kenal dan selamat menikmati!
 
 ** 1/11 Hello

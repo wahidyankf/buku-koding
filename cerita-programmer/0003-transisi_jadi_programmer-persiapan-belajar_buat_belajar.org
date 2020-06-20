@@ -2,6 +2,8 @@
 
 [[https://www.youtube.com/watch?v=oHMnmWWDyiY][YouTube Link]]
 
+** Deskripsi
+
 Yo! Buat kamu yang pengen jadi programmer, gw pengen berbagi tentang kemampuan vital yang bakal dibutuhin selama masa transisi/belajar kita sebagai programmer: belajar! Kenapa gw angkat ini? Karena dari pengalaman gw pribadi, masa-masa transisi ini termasuk masa-masa yang bisa dibilang berat dalam hidup gw (banyak belajar hal baru, ketidakpastian, dan lain sebagainya). Dan di video kali ini, gw bakal berbagi tips yang bisa membantu kita untuk meringankan beban selama masa transisi ini: belajar buat belajar. Semoga berguna!
 
 Tautan:

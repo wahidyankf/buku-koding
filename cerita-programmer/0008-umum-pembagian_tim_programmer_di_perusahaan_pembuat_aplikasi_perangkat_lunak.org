@@ -2,6 +2,8 @@
 
 [[https://www.youtube.com/watch?v=XQnKo69vFOo][YouTube Link]]
 
+** Deskripsi
+
 Hei ho youtube.. Kali ini gw mau ngomongin tentang pembagian role di tim engineering yang biasanya ada di startup-startup (terutama yang ada di indo). Mungkin topiknya kayak kurang oke buat temen-temen yang udah kerja di startup (karena banyak yang udah tau), tapi gw rasa ini salah satu topik yang bagus buat diketahuin orang-orang yang pengen jadi programmer atau yang penasaran sama tim programmer. Jadi ada pembagian kerja apa aja di tim engineering yang ada di startup? Yuk kita bahas.
 
 ** 1/14 - Apa

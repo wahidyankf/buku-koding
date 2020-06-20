@@ -2,6 +2,8 @@
 
 [[https://www.youtube.com/watch?v=Z1lri7YKlsY][YouTube Link]]
 
+** Deskripsi
+
 Hai guys, setelah kemarin ngebahas tentang persiapan transisi jadi programmer, kali ini gw mau ngomongin sesuatu yang gw anggap penting buat gw sampein sebelum kita ngomongin lebih jauh tentang transisi ini: JANGAN PAKE BAJAKAN! Kenapa? Karena itu adalah hal yang salah, dan sebenernya kita gak perlu ngebajak untuk transisi jadi programmer (bahkan untuk jadi programmer yang jago!).
 
 Tautan:
