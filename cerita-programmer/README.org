@@ -23,3 +23,5 @@ Sebuah screencast tentang kehidupan sehari-hari programmer dan dunia di sekitarn
 [[./0008-umum-pembagian_tim_programmer_di_perusahaan_pembuat_aplikasi_perangkat_lunak.org][0008 - Umum - Pembagian Tim Programmer di Perusahaan Pembuat Aplikasi Perangkat Lunak]]
 
 [[./0009-transisi_jadi_programmer-pilih_jadi_programmer_bagian_mana.org][0009 - Transisi Jadi Programmer - Pilih Jadi Programmer Bagian Mana]]
+
+[[file:0010-transisi_jadi_programmer-belajar_bahasa_pemrograman_apa.org][0010 - Transisi Jadi Programmer - Belajar Bahasa Pemrograman Apa]]

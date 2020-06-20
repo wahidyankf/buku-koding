@@ -1,0 +1,103 @@
+* Transisi Jadi Programmer - Belajar Bahasa Pemrograman Apa
+
+Hello YouTube! Gw inget banget, kalo salah satu pertanyaan yang bikin gw bingung waktu gw pertama kali belajar programming itu adalah "bahasa pemrograman apa yang harus dipelajarin?". Nah! Di video ini gw mau coba berbagi pandangan tentang jawaban dari pertanyaan ini. Semoga bisa membantu buat kalian yang pengen belajar jadi programmer tapi masih bingung mau belajar bahasa pemrograman apa. Enjoy!
+
+Tautan:
+
+1. Stack Overflow Developer Survey: https://insights.stackoverflow.com/survey/2020
+
+** 1/7 - Apa
+
+Yang mau dibahas:
+
+- Transisi jadi programmer - belajar bahasa pemrograman apa
+
+Batasan:
+
+- Orang yang mau transisi jadi programmer
+
+** 2/7 Jawaban singkat
+
+Tergantung mau jadi apa
+
+- Android -> Java/Kotlin
+
+- iOS -> Swift
+
+- Web Frontend -> Javascript
+
+- Data scientist/analyst -> Python/R
+
+** 3/7 Terus backend gimana?
+
+Pilih yang dipake sama mentor/kenalan kita
+
+Kenapa? Karena ini bahasa pertama
+
+- pilih yang paling cepet buat dipelajarin
+
+  - bisa nanya-nanya dan minta review
+
+    - ini harganya mahal
+
+- yang paling penting bisa buat:
+
+  - eksplor domain
+     
+  - cari kerja cepet
+
+    - bakal jauh lebih banyak belajar pas udah kerja
+
+** 4/7 Gak usah terlalu banyak mikir
+
+Yang paling penting:
+
+- cepet dapet kerjaan
+
+  - bukan cuman masalah duit
+
+  - butuh banget pengalaman di kerjaan
+
+- cepet melangkah!
+
+  - jangan sampe kebanyakan mikir terus gak jadi ngelakuin
+
+  - contohnya kayak video youtube ini
+   
+** 5/7 Tapi gw mau saran dari lo! - 1
+
+Oke.. Oke.. Gw gak mau bias.. Tapi gimana kalo JavaScript?
+
+Terlepas dari yang dibilang orang-orang:
+
+- paling banyak dipake programmer -> 69.7%!!! [1]
+
+  - banyak yang bisa ditanyain
+
+  - banyak sumber bagus buat belajar yang ramah pemula
+
+    - yang gratis atau yang bayar
+
+- lingua franca web
+
+[1] Stack overflow survey https://insights.stackoverflow.com/survey/2020
+
+** 6/7 Tapi gw mau saran dari lo! - 2
+
+- bisa eksplor banyak platform:
+
+  - web frontend, backend, Android, iOS, IOT
+
+- bisa eksplor banyak paradigma:
+
+  - OOP-ish: TypeScript
+
+  - FP: ReasonML, PureScript, Elm
+
+  - Lispy: ClojureScript
+
+** 7/7 Tapi gw mau masih bingung
+
+Ikutin intuisi kita.
+
+Yang penting jalan dulu aja!
