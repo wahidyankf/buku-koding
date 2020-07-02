@@ -1,0 +1,92 @@
+* Cerita Programmer - Retrospeksi - 1
+
+[[https://www.youtube.com/watch?v=5evNpwan-8s][YouTube Link]]
+
+** Deskripsi
+
+Gak kerasa udah ada 10 video cerita programmer yang dipublish di YouTube, dan gw rasa sekarang adalah waktu yang pas buat gw ngelakuin retro buat video-video yang udah dipublish. Dan video ini adalah tentang itu! Lewat video ini, gw coba buat ngedaftar apa aja yang bisa dibenerin dari video cerita programmer. Gak banyak-banyak, cukup 5 aja dulu. Kenapa 5? Apa emang masalahnya gak lebih dari itu? Gak juga, gampangnya karena 5 ini jumlah yang pas, gak sedikit, tapi gak terlalu banyak juga. Jadi gw bisa fokus buat ngebenahin itu dalam waktu 1.5-2 bulan ke depan. Well then, silakan menikmati. :)
+
+Tautan:
+
+[1] SwitchResX: https://www.madrau.com/
+
+[2] Samson Meteor Mic: http://www.samsontech.com/samson/products/microphones/usb-microphones/meteormic/
+
+
+** Apa?
+
+Cerita Programmer - Retrospeksi
+
+** 1/5 - Resolusi Layar
+
+Masalah:
+
+- Rasio Layar MacBook -> 16:10
+
+- Rasio Layar YouTube -> 16:9
+
+Solusi:
+
+- Set resolusi layar jadi 16:9
+
+  - SwitchResX -> https://www.madrau.com/
+** 2/5 Audio
+
+Masalah:
+
+- Audio proper?
+
+Solusi:
+
+- Samson Meteor Mic
+
+  (+) Bagus tapi gak terlalu ribet settingnya
+
+  (+) Harganya gak murah, tapi gak terlalu mahal
+
+  (-) Ternyata sensitif banget
+** 3/5 Penyampaian
+
+Masalah:
+
+- Panjang udah pas?
+
+Solusi:
+
+- Gak jauh-jauh dari 10 menit
+
+  - 5 slide
+
+  (+) lebih gampang retake
+
+  (+) lebih cepet buat diedit, render, upload
+** 4/5 Pembagian Topik
+
+Masalah:
+
+- Cerita Programmer - X ... -> susah diretake
+
+Solusi:
+
+- Topik
+
+  1. Cerita Programmer -> Ngobrol gak spesifik
+
+  2. Pengen Jadi Programmer -> Transisi jadi programmer
+
+  3. Soft Skills?
+
+  4. Bahasa Pemrograman?
+** 5/5 Aksesibilitas
+
+Masalah:
+
+- Udah oke buat semua kalangan?
+
+  - Kawan-kawan berkebutuhan khusus?
+
+Solusi:
+
+- Mulai dari warna
+
+  - Pemilihan warna tema "hitam-putih"

@@ -1,5 +1,7 @@
 * Transisi Jadi Programmer - Belajar Bahasa Pemrograman Apa
 
+[[https://www.youtube.com/watch?v=vOy6VR74oLg][YouTube Link]]
+
 ** Deskripsi
 
 Hello YouTube! Gw inget banget, kalo salah satu pertanyaan yang bikin gw bingung waktu gw pertama kali belajar programming itu adalah "bahasa pemrograman apa yang harus dipelajarin?". Nah! Di video ini gw mau coba berbagi pandangan tentang jawaban dari pertanyaan ini. Semoga bisa membantu buat kalian yang pengen belajar jadi programmer tapi masih bingung mau belajar bahasa pemrograman apa. Enjoy!
