@@ -46,6 +46,8 @@ Mungkin sudah saatnya saya mulai berbagi secara lebih terstruktur tentang dunia 
 
 *** [[./cerita-programmer/README.org][Screen Cast - Cerita Programmer]]
 
+*** [[./pengen-jadi-programmer/README.org][Screen Cast - Pengen Jadi Programmer]]
+
 ** Coming soon
 
 *** Tutorial Bahasa Pemrograman
