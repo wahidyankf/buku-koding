@@ -1,10 +1,13 @@
-* Kemampuan Komunikasi Itu Penting
+* Kemampuan Komunikasi Itu Penting Banget
 
 ** Deskripsi
 
-The description
+Dulu salah satu dosen gw pernah ngomong kalo kemampuan komunikasi itu adalah salah satu kemampuan yang terpenting buat jadi engineer. Saat itu gw bilang dalam hati kalo itu hal yang terlalu dilebih-lebihkan, saat itu gw yakin banget kalo kemampuan teknis itu jauh lebih penting dibandingkan kemampuan teknis. Dan tenyata gw salah! Semenjak gw dipercaya jadi senior developer, gw menyadari bahwa kemampuan komunikasi seorang itu gak kalah pentingnya dibandingkan kemampuan teknisnya. Mau tau kenapa? Yuk nonton videonya!
 
 ** Apa?
+
+Kemampuan Kompunikasi Itu Penting Banget
+
 ** 1/5 - Point 1
 ** 2/5 - Point 2
 ** 3/5 - Point 3
