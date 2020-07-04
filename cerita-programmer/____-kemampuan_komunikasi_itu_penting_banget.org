@@ -8,8 +8,101 @@ Dulu salah satu dosen gw pernah ngomong kalo kemampuan komunikasi itu adalah sal
 
 Kemampuan Kompunikasi Itu Penting Banget
 
-** 1/5 - Point 1
-** 2/5 - Point 2
-** 3/5 - Point 3
-** 4/5 - Point 4
-** 5/5 - Point 5
+** 1/6 - Bayangin Skenario Ini
+
+- Kita seorang senior programmer, dipercaya sebagai penanggung jawab teknis frontend proyek ABC
+
+  - Proyek terbaru perusahaan, dipercaya bisa mengubah arah perusahaan
+
+  - Deadline ketat
+
+    - Butuh validasi pasar secepatnya
+   
+  - Konsep produk masih belum terlalu matang
+
+  - Tim proyek lengkap: backend, frontend, QA, data, dll
+
+  - Tim frontend: level Junior dan Mid
+
+** 2/6 - Apa yang Menjadi Tanggung Jawab Kita?
+
+- Memastikan proyek aman
+
+  - "teknis": programming, platform, dll
+
+  - "non teknis": timeline, spesifikasi, user flow, dll
+
+- Laporan rutin ke Engineering Manager: progres, blocker, kondisi tim
+
+- Tim
+
+  - Seneng? sedih? stress? terlalu cape?
+
+  - Berkembang secara teknis dan non teknis?
+
+  - Tugas sesuai kemampuan? bloker teknis?
+
+** 3/6 - Hal Salah Apa Yang Mungkin Terjadi - 1
+
+- Deadline terlalu ketat
+
+  - Perencanaan proyek tidak optimal
+
+    - Banyak hal yang terlewat di proses perencanaan
+
+      - Deadline lewat
+
+        - stakeholder kecewa -> finansial perusahaan terancam
+
+- MVP (Minimum Viable Product) terlalu rumit
+
+  - Gak mungkin kekejar
+
+    - Engineer merasa diperlakukan tidak semestinya
+
+      - Tensi tinggi -> salah-salahan
+
+** 4/6 - Hal Salah Apa Yang Mungkin Terjadi - 2
+
+- Banyak tech-debt yang terpaksa diambil untuk menjaga momentum
+
+  - Penambahan fitur baru menjadi sulit
+
+    - Engineer menjadi tidak produktif -> engineer stress
+
+- Perubahan mendadak dari stakeholder
+
+  - Perlu lembur -> gimana caranya biar semuanya dapet
+
+- Proyek menjadi terlalu besar
+
+  - Butuh orang lebih banyak -> gimana caranya nambah orang
+
+
+** 5/6 - Apa yang Bisa Dilakukan?
+
+Penting:
+
+- Sebagian besar orang gak berniat buruk
+
+  - Jangan diperlakukan sebagai lawan
+
+Yuk kita bahas!
+
+** 6/6 - Jadi?
+
+- Kemampuan teknikal itu tidak diragukan lagi adalah hal penting
+
+- Tapi kemampuan komunikasi itu salah satu kunci biar kita
+
+- Perlu tau kalo:
+
+  - Kemampuan komunikasi itu cuman bisa berkembang kalo:
+
+    - Kita berkomunikasi (WOW!)
+
+      - Mulai komunikasi lebih banyak dari sekarang!
+       
+      - Gak akan bisa langsung sempurna!
+
+        - Jangan takut salah!
