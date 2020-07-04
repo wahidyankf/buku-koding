@@ -2,19 +2,20 @@
 
 ** Daftar Isi
 :PROPERTIES:
-:TOC:      :include all siblings :depth 2
+:TOC:      :include all :depth 4
 :END:
-
 :CONTENTS:
 - [[#buku-programming][Buku Programming]]
   - [[#daftar-isi][Daftar Isi]]
   - [[#intro][Intro]]
   - [[#konten-umum][Konten Umum]]
     - [[#screen-cast---cerita-programmer][Screen Cast - Cerita Programmer]]
+    - [[#screen-cast---pengen-jadi-programmer][Screen Cast - Pengen Jadi Programmer]]
   - [[#coming-soon][Coming soon]]
     - [[#tutorial-bahasa-pemrograman][Tutorial Bahasa Pemrograman]]
   - [[#license][License]]
 :END:
+
 
 ** Intro
 
