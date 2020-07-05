@@ -1,5 +1,5 @@
 .DS_Store
 scratchpad/**/*
-belajar_ilmu_komputer_pake_js/**/*
+packages/belajar_ilmu_komputer_pake_js/**/*
 node_modules
 .wkf-root

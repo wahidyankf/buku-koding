@@ -12,7 +12,7 @@ Pengen Jadi Programmer - Umur Gw Udah "Segini" Bisakah?
 
 - 2005-2011 -> masuk kuliah teknik elektro
 
-  - lulus S1 (6.5 tahun)
+  - lulus S1 (6 tahun)
 
 - 2011-2013 -> Persiapan S2
 
@@ -40,7 +40,7 @@ Pengen Jadi Programmer - Umur Gw Udah "Segini" Bisakah?
 
 Gw mau bilang kalo:
 
-1. Programmer gak cuman buat anak muda yang jago-jago
+1. Programmer gak cuman buat usia muda
 
    - Yang udah tua juga bisa
 
@@ -62,15 +62,25 @@ Gw mau bilang kalo:
 
    - Komunikasi
 
+     - Salah satu kemampuan terpenting buat jadi programmer
+
    - Konsistensi
    
 3. Gak ada perusahaan yang mau nerima? Bisa freelance!
+
+   - Atau malah bikin aplikasi sendiri!
 
 
 ** 5/5 - Kesimpulan
 
 1. Jangan ragu buat melangkah/belajar buat jadi programmer
 
-2. Umur tua bukan halangan, begitu juga sebaliknya
+   - Bisa baca?
 
-   - Programmer ruang guru ada yang lulus SMA/SMK langsung kerja
+     - Bisa jadi programmer
+
+2. Umur tua bukan halangan
+
+   - Begitu juga sebaliknya
+
+     - Programmer ruang guru ada yang lulus SMA/SMK langsung kerja
