@@ -1,5 +1,3 @@
 * Belajar Ilmu Komputer Pake JS
 
-** Intro
-
-** Daftar Isi
+Coming soon
