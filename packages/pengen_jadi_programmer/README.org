@@ -8,4 +8,4 @@ Sebuah screencast tentang hal-hal yang berkaitan sama kemauan untuk jadi program
 
 [[./pengen_jadi_programmer-umur_gw_udah_segini_bisakah.org][Pengen Jadi Programmer - Umur Gw Udah Segini, Bisakah?]]
 
-[[./____-pengen_jadi_programmer-butuh_sertifikat_atau_ijasah_apa.org][____ - Pengen Jadi Programmer - Butuh Sertifikat Atau Ijasah Apa?]]
+[[./pengen_jadi_programmer-butuh_sertifikat_atau_ijasah_apa.org][Pengen Jadi Programmer - Butuh Sertifikat Atau Ijasah Apa?]]

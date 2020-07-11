@@ -1,18 +1,21 @@
-* Template
+* Pengen Jadi Programmer - Butuh Sertifikat/Ijasah Apa
 
 ** Deskripsi
 
-Sejauh yang gw tau, sistem pendidikan konvensional (terutama di Indo) membuat kita sangat peduli sama yang namanya sertifikat/ijasah. Yang kayak gini sebenernya sah-sah aja buat beberapa hal, tapi apa hal yang sama berlaku juga di programming? Apakah kita butuh sertifikat/ijasah buat jadi programmer? Yuk kita bahas di video ini!
+Sejauh yang gw tau, sistem pendidikan konvensional (terutama di Indo) membuat kita sangat peduli sama yang namanya sertifikat/ijasah. Yang kayak gini sebenernya sah-sah aja buat beberapa hal, tapi apa hal yang sama berlaku juga di dunia programming? Apakah kita butuh sertifikat/ijasah buat jadi programmer? Yuk kita bahas di video ini!
+
+[[https://youtu.be/iCMLD7y-vbA][YouTube Link]]
 
 ** Apa?
 
-Pengen Jadi Programmer - Butuh Sertifikat/Ijasah Apa
+Pengen Jadi Programmer - Butuh Sertifikat/Ijasah Apa?
 
+-> Gw punya pertanyaan ini ketika pertama kali mutusin mau jadi programmer
 ** 1/5 - Singkatnya
 
 - Kita gak butuh ijasah/sertifikat apapun!
 
-- Yang kita butuh itu kemampuan nyata!
+- Yang kita butuh itu kemampuan yang bisa dibuktiin!
 
 ** 2/5 - Sertifikat/Ijasah itu
 
@@ -48,10 +51,15 @@ Pengen Jadi Programmer - Butuh Sertifikat/Ijasah Apa
 
       => "Bukan berarti dia itu tidak ..."
 
+    - Contoh:
+
+      - Sertifikat halal MUI
+
+      - Ijasah S1 Teknik Informatika
 
 ** 4/5 - Di Samping Itu
 
-Selama gw interview, keputusan akhir itu:
+Selama gw interview orang (dan temen gw diinterview), keputusan akhir itu:
 
 - Bukan karena dia punya ijasah/sertifikat tertentu
 
@@ -59,18 +67,19 @@ Selama gw interview, keputusan akhir itu:
 
   - Udah pernah bikin apa aja?
 
-  - Kemampuan dia sekarang dan potensi berkambangnya gimana?
+  - Kemampuan dia sekarang dan potensi berkembangnya gimana?
 
-  - Komunikasi bisa akan lancar kah?
+  - Komunikasi akan lancar kah?
    
   - Bisa gak meringankan kerja tim?
 
   - Cocok gak kepribadian dia sama tim?
+   
 ** 5/5 - Kesimpulan
 
 Jadi...
 
-1. Kejar kemampuan dan portfolio, bukan sertifikat/ijasah!
+1. Kejar kemampuan dan portofolio, bukan sertifikat/ijasah!
 
 2. Sertifikat/ijasah gak akan ada artinya kalau gak punya kemampuan
 
