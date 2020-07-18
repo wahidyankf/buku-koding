@@ -4,6 +4,8 @@
 
 Hello yutub, kali ini gw mau ngomongin tentang salah satu anti-pola non teknis di rekayasa perangkat lunak: menyalahkan orang lain atau blaming. Blaming ini merupakan salah satu hal yang sebaiknya dijauhin di kegiatan sehari-hari kita sebagai programmer. Dan di video ini gw mau ngebahas kenapa ini adalah salah satu hal yang harus dihindari dan gimana alternatifnya yang lebih bagus.
 
+[[https://www.youtube.com/watch?v=S7lB4FJ_aiU][YouTube Link]]
+
 ** Apa?
 
 Anti-Pola - Blaming atau menyalahkan orang lain
