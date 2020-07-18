@@ -1,0 +1,91 @@
+* Anti-Pola - Menyalahkan Orang Lain (Blaming)
+
+** Deskripsi
+
+Hello yutub, kali ini gw mau ngomongin tentang salah satu anti-pola non teknis di rekayasa perangkat lunak: menyalahkan orang lain atau blaming. Blaming ini merupakan salah satu hal yang sebaiknya dijauhin di kegiatan sehari-hari kita sebagai programmer. Dan di video ini gw mau ngebahas kenapa ini adalah salah satu hal yang harus dihindari dan gimana alternatifnya yang lebih bagus.
+
+** Apa?
+
+Anti-Pola - Blaming atau menyalahkan orang lain
+
+Cerita teman di perusahaan X:
+
+- salah seorang pimpinan tim programmer menyalahkan anggotanya di grup terbuka
+
+  - sangat tidak etis
+
+** 1/6 - Blaming itu Cuman Menguntungkan (?) Diri Sendiri
+
+Menyalahkan orang lain itu cuman memuaskan ego kita
+
+Tidak ada pelajaran yang diambil dengan kita menyalahkan orang lain
+
+- tim kita akan menganggap kita orang yang tidak etis
+
+- kepercayaan tim kepada kita akan jauh berkurang
+
+  - tidak merasa aman
+
+Kisah salah seorang teman:
+
+- dia pindah dari perusahaan yang lama karena di perusahaan yang lama punya budaya blaming
+
+** 2/6 - Blaming Mengganggu Keamanan Psikologis
+
+Aman secara psikologis itu penting untuk berkembang
+
+Gimana ceritanya kalo orang yang belajar sepeda tidak boleh jatuh?
+
+Pesan manager gw:
+
+- Kasih kebebasan tim gw untuk berbuat salah
+
+** 3/6 - Kode yang Sudah Masuk ke Master itu Milik Bersama
+
+Aturan main tim:
+
+- Kode yang sudah masuk ke "master" adalah milik bersama
+
+  - kesalahan salah seorang adalah kesalahan bersama
+
+  - kalo gak gitu, perlu dipertanyakan gimana prosesnya
+
+- Tidak ada orang normal yang mau berbuat salah di pekerjaan
+
+** 4/6 - Alternatif lebih baik - menerima kesalahan orang lain
+
+Salah itu wajar! Semua orang bisa berbuat salah!
+
+Fokus selesaikan masalah, kemudian bikin laporan post-mortem
+
+- Laporan post-mortem bukan blaming
+
+  - bahasa netral
+
+  - ada dokumentasi yang bisa dipelajari oleh semua orang
+   
+    - tim akan belajar menjadi lebih baik
+
+** 5/6 - Alternatif lebih baik - penyampaian itu penting
+
+Selalu ingat bahwa yang menerima omongan kita itu bukan mesin. - anonim
+
+Tanya dengan bahasa yang sopan
+
+- Buruk:
+
+  - Kok ini gini sih? Ini kan ...
+
+- Lebih baik:
+
+  - Sori om/tante/pak/bu/mas/mbak xxx, boleh tau apa pertimbangannya buat kode ini?
+
+** 6/6 - Jadi
+
+1. Jangan pernah menyalahkan orang lain
+
+2. Fokus pada masalah
+
+3. Ingat bahwa yang menerima omongan kita itu bukan mesin
+
+4. Laporan post-mortem bisa menjadi bahan pelajaran yang efektif untuk tim

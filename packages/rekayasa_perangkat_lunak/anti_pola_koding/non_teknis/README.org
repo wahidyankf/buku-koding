@@ -1,0 +1,9 @@
+* Anti-Pola Koding - Non Teknis
+
+Sebuah screencast tentang hal-hal yang berkaitan sama kemauan untuk jadi programmer. Ikutin playlistnya di:
+
+[[https://www.youtube.com/playlist?list=PLqWVfQGCmUMDJ9exwZqZ9g7G0E91E0eK_][YouTube Playlist - Anti-Pola Koding - Non Teknis]]
+
+** Daftar Episode
+
+[[./anti_pola_koding-nt-menyalahkan_orang_lain_blaming.org][Anti-Pola Koding - Non Teknis - Menyalahkan Orang Lain (Blaming)]]
