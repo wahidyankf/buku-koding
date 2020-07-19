@@ -11,7 +11,7 @@
   - [[#konten-umum][Konten Umum]]
     - [[#screen-cast---cerita-programmer][Screen Cast - Cerita Programmer]]
     - [[#screen-cast---pengen-jadi-programmer][Screen Cast - Pengen Jadi Programmer]]
-    - [[#screen-cast---pengen-jadi-programmer][Screen Cast - Pengen Jadi Programmer]]
+    - [[#screen-cast---anti-pola-koding---non-teknis][Screen Cast - Anti-Pola Koding - Non Teknis]]
   - [[#coming-soon][Coming soon]]
     - [[#tutorial-bahasa-pemrograman][Tutorial Bahasa Pemrograman]]
   - [[#license][License]]
