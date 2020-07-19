@@ -1,0 +1,91 @@
+* Pengen Jadi Prorammer - Tips dan Trik Kalo Stuck/Mentok Pas Belajar
+
+** Deskripsi
+
+Hi guys, pernah gak ngerasa stuck/mentok pas belajar koding? Gw pernah! Dan itu wajar! Lewat video ini gw mau berbagi tips dan trik tentang apa yang bisa kita lakuin kalo misalnya kita stuck/mentok pas belajar (koding). Semoga bermanfaat!
+
+Tautan:
+
+[1] A Mind for Numbers - Barbara Oakley: https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU
+
+[[https://...][YouTube Link]]
+
+** Apa?
+
+Tips dan trik kalo kita stuck pas belajar programming
+
+
+Latar belakang
+
+- ada temen gw yang lagi mulai belajar programming
+ 
+  - dia stuck/mentok
+** 1/5 - Mantra
+
+Gw gak bego.
+
+Mungkin gw butuh waktu lebih banyak buat ngerti.
+
+Tapi gw gak akan pernah menyerah buat belajar koding.
+
+Gak sekarang, gak juga nanti.
+
+Karena jadi programmer adalah cita-cita gw.
+** 2/5 - Tanya Mentor/Teman
+
+Tanya mentor/teman yang lebih ngerti
+
+- jangan malu buat nanya
+
+  - gak bisa itu biasa
+
+  - semua bakal kacau kalo kita merasa harus tampil sempurna
+
+   
+Kalau sama-sama gak ngerti
+
+- coba jelasin ke dia apa yang kita gak ngerti.
+
+** 3/5 - Istirahat Terus Coba Lagi
+
+Otak butuh waktu buat menghubungkan semua informasi [1]
+
+- contoh: tau-tau keinget sesuatu pas lagi mandi/nyuci/...
+
+ 
+Cobain tidur/nonton/ngobrol/olah raga/...
+
+- Terus ulangin lagi pelan-pelan bagian yang kita gak ngerti
+
+
+---
+
+[1] Buku "A Mind for Numbers" - Barbara Oakley
+
+** 4/5 - Cari Sumber Belajar Lainnya
+
+Coba belajar pake sumber yang lainnya
+
+- bisa jadi cara penyampeannya yang gak cukup
+
+  - gw biasanya mengulang pelajaran dengan minimal 1 cara penyampaian yang berbeda
+
+- contoh:
+
+  - kalo tadinya instruktur A, coba intruktur B
+
+  - kalo tadinya pake video, coba cari buku
+
+  - kalo tadinya pake buku, coba pake video
+
+** 5/5 - Jangan Menyerah!
+
+Gw percaya kalo selama kita bisa baca dan kali-tambah-kurang-bagi, insya Allah kita akan bisa jadi programmer.
+
+
+Gw juga sama seperti kalian, pernah berjalan di tengah ketidakpastian dan kepusingan belajar buat jadi programmer.
+
+- Gw bisa ngelewatin itu semua, dan gw yakin banget kalo kalian juga insya Allah bisa.
+
+
+/Just grit your teeth, move forward and don't you dare to give up/
