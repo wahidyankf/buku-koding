@@ -2,3 +2,4 @@
 scratchpad/**/*
 node_modules
 .wkf-root
+.vscode
