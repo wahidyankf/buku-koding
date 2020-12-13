@@ -1,24 +1,19 @@
-* Buku Programming
+# Buku Programming
 
-** Daftar Isi
-:PROPERTIES:
-:TOC:      :include all :depth 4
-:END:
-:CONTENTS:
-- [[#buku-programming][Buku Programming]]
-  - [[#daftar-isi][Daftar Isi]]
-  - [[#intro][Intro]]
-  - [[#konten-umum][Konten Umum]]
-    - [[#screen-cast---cerita-programmer][Screen Cast - Cerita Programmer]]
-    - [[#screen-cast---pengen-jadi-programmer][Screen Cast - Pengen Jadi Programmer]]
-    - [[#screen-cast---anti-pola-koding---non-teknis][Screen Cast - Anti-Pola Koding - Non Teknis]]
-  - [[#coming-soon][Coming soon]]
-    - [[#tutorial-bahasa-pemrograman][Tutorial Bahasa Pemrograman]]
-  - [[#license][License]]
-:END:
+## Daftar Isi
 
+- [Buku Programming](#buku-programming)
+  - [Daftar Isi](#daftar-isi)
+  - [Intro](#intro)
+  - [Konten Umum](#konten-umum)
+    - [Screen Cast - Cerita Programmer](#screen-cast---cerita-programmer)
+    - [ Screen Cast - Pengen Jadi Programmer ](#-screen-cast---pengen-jadi-programmer-)
+    - [Screen Cast - Anti-Pola Koding - Non Teknis](#screen-cast---anti-pola-koding---non-teknis)
+  - [Coming soon](#coming-soon)
+    - [Tutorial Bahasa Pemrograman](#tutorial-bahasa-pemrograman)
+  - [License](#license)
 
-** Intro
+## Intro
 
 Halo, nama gw Yoka, saat ini gw kerja sebagai Senior Frontend Engineer di Ruang Guru, salah satu perusahaan teknologi di Indonesia yang bergerak di bidang pendidikan. Berbeda dari sebagian besar orang yang kerja jadi programmer, gw bukan berasal dari background pendidikan ilmu komputer/informatika. Setelah melewati berbagi macam proses /denial/ dan /dropout/ dari kampus s2 gw, akhirnya gw memutuskan buat ngejar mimpi gw untuk jadi programmer. Dan sampai saat ini, gw merasa itu adalah salah satu keputusan terbaik di dalam hidup gw (selain nikahin istri gw :p) +setelah belajar vim dan emacs+.
 
@@ -34,34 +29,31 @@ Mungkin pertanyaan berikutnya adalah kenapa dalam bentuk repository? Dan kenapa 
 
 4. Gw nulis semua ini di emacs, dan org-mode, salah satu keunggulannya adalah buat para pembaca yang mau eksplor lebih jauh tentang buku ini, dan nge-/fork/ atau clone buku ini terus jalanin repo ini di emacs, bakal dapet bonus buat bisa jalanin apa yang ada di buku via org-mode. Salah satu bonusnya adalah bisa punya semacam catetan yang bisa berfungsi sebagai REPL juga.
 
-Sebagai penutup, ada satu kata-kata yang gw baca di buku [[https://www.manning.com/books/get-programming-with-haskell]["Get Programming with Haskell" (Will Kurt, 2018)]] yang terngiang-ngiang dia kepala gw ketika gw menulis (ataupun rekaman) buku ini:
+Sebagai penutup, ada satu kata-kata yang gw baca di buku ["Get Programming with Haskell" (Will Kurt, 2018)](https://www.manning.com/books/get-programming-with-haskell) yang terngiang-ngiang dia kepala gw ketika gw menulis (ataupun rekaman) buku ini:
 
-#+BEGIN_QUOTE
-Ask yourself, as a reader, what piece of writing in all the world ... would [you] most want to read if [you] had [your] heart's choice. The next step is terrible, but so simple I can hardly believe it as I write it. You just sit down shamelessly and write the thing yourself
-
-J.D. Salinger
-#+END_QUOTE
+> Ask yourself, as a reader, what piece of writing in all the world ... would [you] most want to read if [you] had [your] heart's choice. The next step is terrible, but so simple I can hardly believe it as I write it. You just sit down shamelessly and write the thing yourself
+> ~ J.D. Salinger
 
 Mungkin sudah saatnya saya mulai berbagi secara lebih terstruktur tentang dunia programming ini. Semoga bisa pelan-pelan membantu banyak orang yang membutuhkan.
 
-** Konten Umum
+## Konten Umum
 
-*** [[./packages/cerita_programmer/README.org][Screen Cast - Cerita Programmer]]
+### [Screen Cast - Cerita Programmer](./packages/cerita_programmer/README.org)
 
-*** [[./packages/pengen_jadi_programmer/README.org][Screen Cast - Pengen Jadi Programmer]]
+### [ Screen Cast - Pengen Jadi Programmer ](./packages/pengen_jadi_programmer/README.org)
 
-*** [[./packages/rekayasa_perangkat_lunak/anti_pola_koding/non_teknis/README.org][Screen Cast - Anti-Pola Koding - Non Teknis]]
+### [Screen Cast - Anti-Pola Koding - Non Teknis](./packages/rekayasa_perangkat_lunak/anti_pola_koding/non_teknis/README.org)
 
-** Coming soon
+## Coming soon
 
-*** Tutorial Bahasa Pemrograman
+### Tutorial Bahasa Pemrograman
 
-** License
+## License
 
-[[https://creativecommons.org/licenses/by-nc/3.0/][Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)]]
+[Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/)
 
 Bahasa gampangnya:
 
 1. Boleh dipake dengan atau tanpa dimodif buat tujuan non komersial (bukan buat ambil untung secara finansial), asalkan ngasih tau diambil dari sini.
-  
+
 2. Gak boleh dipake tanpa modif ataupun dimodif buat tujuan komersial (bermaksud mengambil untung secara finansial), kecuali gw izinin.
